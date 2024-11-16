@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Source+Code+Pro:wght@300&display=swap');
+
+.navbar{
+    background-color: #007bff;;
+}
+.navbar-brand{
+    font-weight: bolder;
+}
+.card-title{
+    font-family: 'Poppins', sans-serif;
+}
+.importantNote{
+    color: red;
+}
+.importantNote .impbadge{
+    color: #fff;
+    font-weight: unset;
+    font-size: 1.4vh;
+}
+.notes{
+    font-family: 'Source Code Pro', monospace;
+}
+
+.MadeByGaurav{
+    display: flex;
+    justify-content: center;
+    align-items:baseline;
+    font-family: 'Otomanopee One', sans-serif;
+}
