@@ -1,4 +1,4 @@
-console.log("Welcome to Magic Notes");
+console.log("Welcome to Notify");
 
 // When the page will reload then it will show the localstorage notes. Which was added previously.
 showNotes();
